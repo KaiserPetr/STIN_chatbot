@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import ChatBot from './App';
+import ChatBot from './chatBot';
 
 ReactDOM.render(
   <React.StrictMode>
